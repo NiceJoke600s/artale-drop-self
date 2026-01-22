@@ -1,0 +1,7 @@
+{
+"name":"Artale Drop Self",
+"short_name":"ArtaleDrop",
+"start_url":"./",
+"display":"standalone",
+"theme_color":"#317EFB"
+}

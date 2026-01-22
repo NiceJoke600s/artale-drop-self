@@ -1,0 +1,1 @@
+document.getElementById('status').textContent='可正常運作';
